@@ -25,5 +25,8 @@
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1nicius00&theme=dark">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=V1nicius00&theme=dark">
+</div>
+<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1nicius00&theme=dark">
 </div>
