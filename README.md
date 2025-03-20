@@ -16,7 +16,7 @@
 <br>
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1nicius00&theme=dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1nicius00&theme=dark" alt="Github Stats" />
 </div>
 <br>
 <div>
